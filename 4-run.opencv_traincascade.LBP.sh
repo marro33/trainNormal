@@ -1,5 +1,5 @@
 mkdir data_dir
-pos_num=30
+pos_num=24
 neg_num=90
 threads_num=8
 width=64
